@@ -1,0 +1,95 @@
+
+.main{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 90px 0 300px 0;
+  background-color: rgb(252, 252, 252);
+}
+.sub-main {
+  display: flex;
+  justify-content: center;
+  height: 60vh; /* Set to 50% of the viewport height, adjust as needed */
+  width: 35%;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  padding-top: 5px;
+  border-radius: 60px;
+  background-color: white;
+}
+.imgs{
+  padding-top: 5px;
+  justify-content: center;
+  display: flex;
+  
+}
+.container-image{
+  background-color: rgb(223, 221, 221);
+  border-radius: 150px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 115px;
+  width: 30%;
+}
+.profile{
+  height: 100px;
+  width: 90%;
+  border-radius: 130px;
+}
+
+/* input{
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color: #fff;
+} */
+.email{
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  padding: 14px 0 0 25px;
+}
+.password{
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  padding: 15px 0 0 25px;
+}
+
+.name{
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color: #fff;
+  padding-left: 70px;
+  font-size: 20px;
+}
+.second-input{
+  padding-top: 20px;
+  justify-content: center;
+  padding-bottom: 20px;
+ 
+}
+.logBtn{
+  padding-bottom: 20px;
+  width: 370px;
+  height: 45px;
+  border-radius: 60px;
+  background-color: #b103fc;
+  color: white;
+  font-size: 25px;
+  border: none;
+  text-align: center;
+  line-height: 50px; 
+}
+.body{
+  /* display: flex; */
+ justify-content: center;
+ 
+}

@@ -1,0 +1,22 @@
+.chaart{
+   width:500px;
+   height:300px;
+   padding: 20px;
+
+}
+
+.webskt {
+   overflow-y: auto; /* Enable vertical scrolling */
+   margin-top: 600px;
+   
+ }
+ 
+ /* Additional styling for the list items if desired */
+ .webskt ul {
+   list-style-type: none;
+   padding: 0;
+ }
+ 
+ .webskt li {
+   margin-bottom: 5px;
+ }
